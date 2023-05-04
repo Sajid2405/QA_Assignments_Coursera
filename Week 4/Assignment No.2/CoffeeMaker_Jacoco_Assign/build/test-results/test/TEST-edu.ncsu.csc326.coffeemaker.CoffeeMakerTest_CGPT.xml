@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-04-20T06:05:13" hostname="DESKTOP-TJE8EIT" time="0.009">
+  <properties/>
+  <testcase name="testMakeCoffeeNotEnoughIngredients" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.002"/>
+  <testcase name="testAddInventoryWithInvalidInput" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.005"/>
+  <testcase name="testCheckInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <testcase name="testAddInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <testcase name="testMakeCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <testcase name="testMakeCoffeeWithInsufficientFunds" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <testcase name="testMakeCoffeeNotEnoughMoney" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <testcase name="testDeleteRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.001"/>
+  <testcase name="testMakeCoffeeWithNoInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <testcase name="testAddRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <testcase name="testEditRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTest_CGPT" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

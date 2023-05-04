@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" tests="41" skipped="0" failures="0" errors="0" timestamp="2023-04-20T19:22:02" hostname="DESKTOP-TJE8EIT" time="0.008">
+  <properties/>
+  <testcase name="testAddRecipe1" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.002"/>
+  <testcase name="Recepie_getName" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_setAmtCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="CoffeeMaker_makeCoffee_invalidIndex" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testSetAmtChocolate1" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testSetAmtChocolate2" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.001"/>
+  <testcase name="testCoffeeMaker_editRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_setAmtSugar" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_getAmtSugar" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="RecipeBook_mutations" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testAddInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="CoffeeMaker_makeCoffee_exactAmount" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testMakeCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testAddInventoryException" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recipe_hashCode" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recipe_mutations" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.001"/>
+  <testcase name="Recepie_setAmtMilk" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="CoffeeMaker_editRecipe_exceptions" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testAddRecipeException1" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.001"/>
+  <testcase name="testAddRecipeException2" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testAddRecipeException3" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testAddRecipeException4" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testAddRecipeException5" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testSetAmtSugar" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_setName" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testCoffeeMaker_deleteRecipe" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="CoffeeMaker_checkInventory" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_Recepie" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_getAmtCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testCoffeeMaker_deleteRecipe_nonExistent" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Inventory_addIngredients" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testCoffeeMaker_deleteRecipe_withNonExistentID" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_getAmtChocolate" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_setPrice" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="CoffeeMaker_makeCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testSetAmtMilk" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recipe_toString" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_getAmtMilk" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_getPrice" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="testSetAmtCoffee" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <testcase name="Recepie_setAmtChocolate" classname="edu.ncsu.csc326.coffeemaker.CoffeeMakerTestGolden" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
